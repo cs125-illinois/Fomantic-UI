@@ -36,3 +36,4 @@ nbproject
 .build*
 .idea
 .vscode
+/dist

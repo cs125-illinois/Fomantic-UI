@@ -1,0 +1,9 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@fontName          : 'Open Sans';
+@headerFont        : 'Overpass';
+@importGoogleFonts : false;
+
+@fontSize : 16px;
