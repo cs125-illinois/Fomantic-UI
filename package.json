@@ -25,7 +25,7 @@
   },
   "scripts": {
     "install": "gulp install",
-    "build": "gulp build",
+    "build": "gulp build-css",
     "changelog": "auto-changelog -p"
   },
   "dependencies": {
