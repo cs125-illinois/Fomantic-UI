@@ -1,0 +1,13 @@
+/*-------------------
+   Icon Variables
+--------------------*/
+
+@fontPath  : "../../themes/cs125/assets/fonts";
+@src: url("@{fontPath}/@{fontName}.svg#icons") format('svg');
+
+@importOutlineIcons: false;
+
+/* Brand Icons */
+@importBrandIcons: true;
+@brandFontName: 'brand-icons';
+@brandSrc: url("@{fontPath}/@{brandFontName}.svg#icons") format('svg');

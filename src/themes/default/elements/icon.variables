@@ -15,7 +15,7 @@
   url("@{fontPath}/@{fontName}.ttf") format('truetype'),
   url("@{fontPath}/@{fontName}.svg#icons") format('svg')
 ;
-@fallbackSRC: url("@{fontPath}/@{fontName}.eot");
+@fallbackSRC: url("@{fontPath}/@{fontName}.svg");
 
 /* Outline Icons */
 @importOutlineIcons: true;
@@ -27,7 +27,7 @@
   url("@{fontPath}/@{outlineFontName}.ttf") format('truetype'),
   url("@{fontPath}/@{outlineFontName}.svg#icons") format('svg')
 ;
-@outlineFallbackSRC: url("@{fontPath}/@{outlineFontName}.eot");
+@outlineFallbackSRC: url("@{fontPath}/@{outlineFontName}.svg");
 
 
 
@@ -41,7 +41,7 @@
   url("@{fontPath}/@{brandFontName}.ttf") format('truetype'),
   url("@{fontPath}/@{brandFontName}.svg#icons") format('svg')
 ;
-@brandFallbackSRC: url("@{fontPath}/@{brandFontName}.eot");
+@brandFallbackSRC: url("@{fontPath}/@{brandFontName}.svg");
 
 
 /*--------------
