@@ -6,4 +6,4 @@
 @headerFont        : 'Overpass';
 @importGoogleFonts : false;
 
-@fontSize : 16px;
+@emSize   : 18px;
